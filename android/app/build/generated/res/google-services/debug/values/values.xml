@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">11760939212</string>
+    <string name="google_api_key" translatable="false">AIzaSyColWorOTKG9bocKHYllhjyy_ynvyc3vgo</string>
+    <string name="google_app_id" translatable="false">1:11760939212:android:741e1049d45f3618761269</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyColWorOTKG9bocKHYllhjyy_ynvyc3vgo</string>
+    <string name="google_storage_bucket" translatable="false">tododenemesi.firebasestorage.app</string>
+    <string name="project_id" translatable="false">tododenemesi</string>
+</resources>
